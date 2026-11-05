@@ -1,9 +1,9 @@
 // ---------- Пункт 1 ----------
 const productImages = [
-  "images/coat.png",
+  "images/coat.webp",
   "images/shoes.webp",
-  "images/dress.jpg",
-  "images/backpack.jpg"
+  "images/dress.webp",
+  "images/backpack.webp"
 ];
 
 const fallingLayer = document.getElementById("fallingLayer"); // метод пошуку: getElementById
